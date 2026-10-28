@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CloseSignup</name>
+   <tag></tag>
+   <elementGuidId>ba7f77c1-f7fb-40f3-b40a-13275e08ab15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'signInModal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-secondary ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#signInModal .btn-secondary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a9ec6dc5-c934-4ea4-9699-625eaa5ab70e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1299beea-45ac-4e43-ac2a-367657910575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary</value>
+      <webElementGuid>838eaafd-6b0a-4f10-9a2d-e45314056442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dismiss</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>8e3940cf-2106-4e4f-a381-d7af6615aeb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>9458a299-78b6-413e-9c60-e612c29e134d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-be87ffeb183c763a782ea3203136b504</value>
+      <webElementGuid>9953569b-6433-4026-81fe-547d633f5259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'signInModal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-secondary ')]</value>
+      <webElementGuid>eaff55c6-0605-4f4e-b247-381458454083</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'signInModal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-secondary ')]</value>
+      <webElementGuid>8209638c-1f40-4168-849c-c1bc4ce7e114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>053f60bb-51b3-4d9c-b4c5-f807beb5d098</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

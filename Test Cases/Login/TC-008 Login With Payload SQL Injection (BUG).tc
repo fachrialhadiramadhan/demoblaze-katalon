@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Type: Negative (BUG)&#xd;
+Priority: High&#xd;
+Expected: Login ditolak; tidak ada error database yang terekspos&#xd;
+Actual: Login diterima, ada user yang pernah buat dengan username itu</description>
+   <name>TC-008 Login With Payload SQL Injection (BUG)</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Fachri Alhadi Ramadhan</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>70a55965-55a5-45db-90a2-e18b021e9225</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96f4fcec-1352-48f4-af7d-a2f8c19d27f1</testCaseGuid>
+</TestCaseEntity>

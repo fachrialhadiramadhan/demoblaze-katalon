@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Type: Negative&#xd;
+Priority: High&#xd;
+Note: Perilaku sesuai requirement: diizinkan guest checkout atau diarahkan login terlebih dahulu&#xd;
+</description>
+   <name>TC-012 Success Checkout Without Login</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Fachri Alhadi Ramadhan</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>70a55965-55a5-45db-90a2-e18b021e9225</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c151dfbb-385f-47ef-a6b6-54d3aefa8d93</testCaseGuid>
+</TestCaseEntity>

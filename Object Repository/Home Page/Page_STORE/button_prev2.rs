@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_prev2</name>
+   <tag></tag>
+   <elementGuidId>42f459f4-6375-407d-98ce-8b3369da8027</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-item ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-link ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.page-item:nth-child(1) .page-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0bc9bac1-26e8-4adf-aed0-d01979d42fcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-link</value>
+      <webElementGuid>60bc530a-25d5-4a49-a2d1-587239ae3b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>prev2</value>
+      <webElementGuid>b18ef7a8-b42c-4d7b-a4f5-c9fd7690183e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>808bc29a-4934-4a06-ba6e-046ca49c65d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Previous</value>
+      <webElementGuid>d112ec8d-fc92-4e60-83c8-2ae1cc7a91fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b44614c34c5349caca121456c0c7859f</value>
+      <webElementGuid>fb3b267e-ed8e-4874-bf04-eedab032f08e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-item ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-link ')]</value>
+      <webElementGuid>423e4f52-53b0-4160-a6d9-dce2cdd4b099</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-item ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-link ')]</value>
+      <webElementGuid>797550cc-b993-4b47-8767-78c4da549f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'prev2' and (text() = 'Previous' or . = 'Previous')]</value>
+      <webElementGuid>238e9ccc-6083-4518-814f-8267fa5ee437</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

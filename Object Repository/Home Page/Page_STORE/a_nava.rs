@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_nava</name>
+   <tag></tag>
+   <elementGuidId>34a0dff7-037d-40b0-86ec-b93df7c5f00d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'nava']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nava</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>916203a5-16a7-4e7b-8982-bf9c90dbe870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar-brand</value>
+      <webElementGuid>cbdbfd17-cb73-47a9-a2b6-e23f6eb592d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nava</value>
+      <webElementGuid>66b8b72c-97de-4c7e-b27a-ed857992280d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.html</value>
+      <webElementGuid>ee41927f-0b93-4843-8f01-cbb35acc2c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> PRODUCT STORE</value>
+      <webElementGuid>3360432c-0818-4919-afe0-ab5fe11375f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-08ca245a18be879dd09665b4dd397ed5</value>
+      <webElementGuid>e2172eac-c9e8-4931-9496-d98e0f10de82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'nava']</value>
+      <webElementGuid>b5ba0088-069e-4686-8559-ce00f943d0bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'nava']</value>
+      <webElementGuid>2ef9c5c3-7548-421a-b9cb-dedcc0d69a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'nava' and @href = 'index.html' and (text() = ' PRODUCT STORE' or . = ' PRODUCT STORE')]</value>
+      <webElementGuid>0560c5e6-0f88-4bc6-9225-59d89d0c86cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Type: Negative (BUG)&#xd;
+Priority: High&#xd;
+Note: Sesuai aturan web berhasil, tapi bagusnya dibuat gagal harus validasi untuk username.</description>
+   <name>TC-010 Sign Up With Payload XSS (BUG)</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Fachri Alhadi Ramadhan</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>70a55965-55a5-45db-90a2-e18b021e9225</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d322930-21e4-4e39-840a-55f8f329007e</testCaseGuid>
+</TestCaseEntity>

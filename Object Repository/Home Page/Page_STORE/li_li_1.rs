@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_li_1</name>
+   <tag></tag>
+   <elementGuidId>cbc9c087-bc07-4cd7-bc3e-904fa37d0d51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@data-target = '#carouselExampleIndicators') and (position() = 2)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-target=&quot;\#carouselExampleIndicators&quot;]:nth-child(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>078fd434-6c3e-4f2f-a25b-b049fdc86eb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#carouselExampleIndicators</value>
+      <webElementGuid>2889af23-847b-4b1d-b6d7-cb38b1871553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slide-to</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>b31287b0-5078-47fa-bf1a-f24ee6aae250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-fb0b6f59ca11e1524bce53a0800300fd</value>
+      <webElementGuid>8a826e81-a535-487b-84b3-1e4e9c6ee5ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@data-target = '#carouselExampleIndicators') and (position() = 2)]</value>
+      <webElementGuid>c7caf554-3260-4af6-9b5e-a37b14a71b51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@data-target = '#carouselExampleIndicators') and (position() = 2)]</value>
+      <webElementGuid>8712afa0-d81c-4248-92ba-b9613aed848a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

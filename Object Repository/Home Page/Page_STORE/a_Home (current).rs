@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Home (current)</name>
+   <tag></tag>
+   <elementGuidId>cf759f05-97fe-48ff-bf5a-d10852e3ba30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-link ') and (@href = 'index.html')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.nav-link[href=&quot;index\.html&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1100dd71-b611-4c6b-9679-959d6a654a60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>b86aecd9-51b3-42fe-8d0a-4ef7e7432737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.html</value>
+      <webElementGuid>b91d9fcf-1f62-4d96-bdf7-18bbab86962d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home (current)</value>
+      <webElementGuid>882cee4a-489d-46a4-bdd8-7bfdeb095c81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a1cb8b67b5433f4db2b16ec0835671d2</value>
+      <webElementGuid>5535475a-e7be-4fb1-a8ea-1305aac13a39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-link ') and (@href = 'index.html')]</value>
+      <webElementGuid>ffc9297c-6874-45be-b45a-caa451deb8c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-link ') and (@href = 'index.html')]</value>
+      <webElementGuid>df18075b-469f-4203-a88e-509e09b4335f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.html' and (text() = 'Home (current)' or . = 'Home (current)')]</value>
+      <webElementGuid>a4e5d21d-6232-49e8-ac1b-58d9a50fe390</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

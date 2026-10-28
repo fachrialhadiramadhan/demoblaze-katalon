@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Next</name>
+   <tag></tag>
+   <elementGuidId>28a07674-5c07-4604-9867-a63c96db6146</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' carousel-control-next ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.carousel-control-next</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eadc3739-d5b6-4ae8-be01-13542c208036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>carousel-control-next</value>
+      <webElementGuid>f4e8b7aa-b2b8-4c55-b5ed-6e3fc78c74b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#carouselExampleIndicators</value>
+      <webElementGuid>75ec54fb-71c3-467f-bb31-06831f2e03f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b542aa17-e847-4c1f-96be-4b72e0c54546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slide</name>
+      <type>Main</type>
+      <value>next</value>
+      <webElementGuid>240a812d-05ce-488c-919f-5a32066d4b4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          
+          Next
+        </value>
+      <webElementGuid>be351b4b-f4e6-4cc7-a75c-806df1f562ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-463d41905ebbc3bc70d0c146ed245a8e</value>
+      <webElementGuid>bcfbe4c2-6145-48c1-a332-d69fcbb90c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' carousel-control-next ')]</value>
+      <webElementGuid>e46927c0-bb1d-4f62-a69e-0c4f17bf9a39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' carousel-control-next ')]</value>
+      <webElementGuid>c2d95ef7-1904-4ee3-9d9e-a76546f52b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#carouselExampleIndicators' and (text() = '
+          
+          Next
+        ' or . = '
+          
+          Next
+        ')]</value>
+      <webElementGuid>1a31dbc3-3f84-4142-8974-76149546b3be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
